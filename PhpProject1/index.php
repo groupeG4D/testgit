@@ -11,7 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-            echo "Hello World!!!!bonjour";
+            echo "Hello salepute !!!!";
+            echo "\nbonjour";
         ?>
     </body>
 </html>
