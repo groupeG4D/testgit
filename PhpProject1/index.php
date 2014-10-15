@@ -13,6 +13,9 @@ and open the template in the editor.
         <?php
             echo "Hello salepute de toi !!!!";
             echo "\nbonjour bonjour";
+            
+            
+            
         ?>
     </body>
 </html>
