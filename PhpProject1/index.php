@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
             echo "Hello salepute de toi !!!!";
-            echo "\nbonjour bonjour";
+            echo "\nbonjour bonjour"; 
             
             
             
